@@ -6,6 +6,11 @@ A very basic Docker Zookeeper container.
 docker build -t ryanratcliff/zookeeper .
 ```
 
+### Alternatively, the container can be pulled from Docker Registry
+```
+docker pull ryanratcliff/zookeeper
+```
+
 # Example usages
 
 ### To startup as is
