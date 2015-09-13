@@ -1,6 +1,0 @@
-zookeeper:
-  image: ryanratcliff/zookeeper
-  ports:
-    - "2181:2181"
-    - "8888:8888"
-
