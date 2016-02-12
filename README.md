@@ -30,5 +30,5 @@ docker run -d -P ryanratcliff/zookeeper
 
 ### To startup with data directory located on host and specific port exposed
 ```
-docker run -d p 2181:2181 ryanratcliff/zookeeper
+docker run -d -p 2181:2181 ryanratcliff/zookeeper
 ```
